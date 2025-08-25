@@ -2,13 +2,6 @@
 
 ---
 
-| **Họ & tên SV** | Tiết Vinh Phú |
-| --- | --- |
-| **Mã số SV** | J1S2411004 |
-| **Ngày thi** | 14/08/2025 |
-
----
-
 # **PHẦN 1: CÀI ĐẶT VÀ CẤU HÌNH CƠ BẢN**
 
 ## **1. Cài đặt Windows Server**
