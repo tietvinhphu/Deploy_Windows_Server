@@ -1,4 +1,4 @@
-# Hướng dẫn triển khai Windows Server
+#HƯỚNG DẪN TRIỂN KHAI WINDOWS SERVER#
 
 # **PHẦN 1: CÀI ĐẶT VÀ CẤU HÌNH CƠ BẢN**
 
