@@ -1,4 +1,4 @@
-#HƯỚNG DẪN TRIỂN KHAI WINDOWS SERVER#
+# **HƯỚNG DẪN TRIỂN KHAI WINDOWS SERVER**
 
 # **PHẦN 1: CÀI ĐẶT VÀ CẤU HÌNH CƠ BẢN**
 
