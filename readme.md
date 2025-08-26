@@ -713,6 +713,8 @@
             ![image.png](/image/image%2059.png)
             
             ![image.png](/image/image%2060.png)
-            
-    [![Video triển khai Windows Server](images/Picture1.gif)](https://youtube.com/playlist?list=PL8Q9o0_e7O9J0CwLQAX461xbGtEV9lKE1&si=ZgIEgWzmTCCGPWo8)
+
+    ## Video Dự án
+    Bấm vào hình để xem video dự án của mình <br>        
+    [![Video triển khai Windows Server](image/Phu%20Cyber.gif)](https://youtube.com/playlist?list=PL8Q9o0_e7O9J0CwLQAX461xbGtEV9lKE1&si=ZgIEgWzmTCCGPWo8)
     ---
