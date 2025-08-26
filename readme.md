@@ -716,5 +716,5 @@
 
     ## Video Dự án
     Bấm vào hình để xem video dự án của mình <br>        
-    [![Video triển khai Windows Server](image/Phu%20Cyber.gif)](https://youtube.com/playlist?list=PL8Q9o0_e7O9J0CwLQAX461xbGtEV9lKE1&si=ZgIEgWzmTCCGPWo8)
+    [![Video triển khai Windows Server](image/Phu%20Cyber.gif)](https://youtube.com/playlist?list=PL8Q9o0_e7O9IM7dH9VFkcE36-mMibzZmg&si=04NJW-HBGc2j5Cwd)
     ---
