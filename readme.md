@@ -1,7 +1,5 @@
 # Hướng dẫn triển khai Windows Server
 
----
-
 # **PHẦN 1: CÀI ĐẶT VÀ CẤU HÌNH CƠ BẢN**
 
 ## **1. Cài đặt Windows Server**
@@ -716,5 +714,5 @@
             
             ![image.png](/image/image%2060.png)
             
-    
+    [![Video triển khai Windows Server](images/Picture1.gif)](https://youtube.com/playlist?list=PL8Q9o0_e7O9J0CwLQAX461xbGtEV9lKE1&si=ZgIEgWzmTCCGPWo8)
     ---
